@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/scalableminds/coffeelint-min-colon-spacing",
   "peerDependencies": {
-    "coffeelint": "~1.1"
+    "coffeelint": "^1.1"
   },
   "devDependencies": {
     "coffee-script": "~1.7.0"
